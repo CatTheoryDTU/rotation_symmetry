@@ -1,5 +1,6 @@
 # rotation_symmetry
 Class for calculating rotation symmetry data, e.g. linearity or symmetry number for partition function
+
 By Mikael Valter-Lithander
 
 It searches through all possible rotation axes and finds all possible allowed permutations from rotations. The symmetry number is equal to the number of rotation permutations.
